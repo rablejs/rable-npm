@@ -1,0 +1,19 @@
+{
+  "name": "@rable/rable",
+  "version": "0.0.1",
+  "description": "JS Transpiler with the power of Rust (placeholder)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rablejs/rable-npm.git"
+  },
+  "author": "Charles Pierce <cpierce.grad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rablejs/rable-npm/issues"
+  },
+  "homepage": "https://github.com/rablejs/rable-npm#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
+
