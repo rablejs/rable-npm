@@ -1,7 +1,10 @@
 {
   "name": "@rable/rable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JS Transpiler with the power of Rust (placeholder)",
+  "keywords": [
+    "rable"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rablejs/rable-npm.git"
